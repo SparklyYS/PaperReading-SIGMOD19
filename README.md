@@ -1,4 +1,4 @@
-##Graph Algorithm & Graph System (SIGMOD'19)
+## Graph Algorithm & Graph System (SIGMOD'19)
 
 * **Optimizing Declarative Graph Queries at Large Scale** [[pdf]](https://netdb.cis.upenn.edu/papers/graphrex_tr.pdf)
 
