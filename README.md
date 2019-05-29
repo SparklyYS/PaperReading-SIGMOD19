@@ -13,7 +13,7 @@
 * **Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together**
 * **Efficient Approximation Algorithms for Adaptive Seed Minimization**
 * **Efficiently Answering Regular Simple Path Queries on Large Labeled Networks** [[pdf]](http://www.cse.iitd.ernet.in/~srikanta/publication/sigmod-19/sigmod-19.pdf) **(已选)**
-* **Interactive Graph Search** [[pdf]](https://www.cse.cuhk.edu.hk/~taoyf/paper/sigmod19.pdf)
+* **Interactive Graph Search** [[pdf]](https://www.cse.cuhk.edu.hk/~taoyf/paper/sigmod19.pdf) **(已选)**
 * **Efficient Estimation of Heat Kernel PageRank for Local Clustering** [[pdf]](https://arxiv.org/pdf/1904.02707.pdf)
 * **Answering Why-questions by Exemplars in Attributed Graphs**
 * **Distance-generalized Core Decomposition** [[pdf]](https://arxiv.org/pdf/1904.07262.pdf) 
