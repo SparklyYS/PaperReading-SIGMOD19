@@ -4,7 +4,7 @@
 
 * **CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation** 
 * **Experimental Analysis of Streaming Algorithms for Graph Partitioning** 
-* **CECI: Compact Embedding Cluster Index for Scalable Subgraph Matching** [[pdf]](https://www2.seas.gwu.edu/~howie/publications/CECI-SIGMOD19.pdf)
+* **CECI: Compact Embedding Cluster Index for Scalable Subgraph Matching** [[pdf]](https://www2.seas.gwu.edu/~howie/publications/CECI-SIGMOD19.pdf) **(已选)**
 * **GPU-based Graph Traversal on Compressed Graphs**
 * **PRSim: Sublinear Time SimRank Computation on Large Power-Law Graphs** [[pdf]](https://arxiv.org/pdf/1905.02354.pdf)
 * **Fractal: A General-Purpose Graph Pattern Mining System**
