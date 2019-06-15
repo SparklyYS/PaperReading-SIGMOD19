@@ -1,6 +1,6 @@
 ## Graph Algorithm & Graph System (SIGMOD'19)
 
-* **Optimizing Declarative Graph Queries at Large Scale** [[pdf]](https://netdb.cis.upenn.edu/papers/graphrex_tr.pdf)
+* **Optimizing Declarative Graph Queries at Large Scale** [[pdf]](https://netdb.cis.upenn.edu/papers/graphrex_tr.pdf) **(已选)**
 
 * **CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation** 
 * **Experimental Analysis of Streaming Algorithms for Graph Partitioning** 
@@ -14,6 +14,6 @@
 * **Efficient Approximation Algorithms for Adaptive Seed Minimization**
 * **Efficiently Answering Regular Simple Path Queries on Large Labeled Networks** [[pdf]](http://www.cse.iitd.ernet.in/~srikanta/publication/sigmod-19/sigmod-19.pdf) **(已选)**
 * **Interactive Graph Search** [[pdf]](https://www.cse.cuhk.edu.hk/~taoyf/paper/sigmod19.pdf) **(已选)**
-* **Efficient Estimation of Heat Kernel PageRank for Local Clustering** [[pdf]](https://arxiv.org/pdf/1904.02707.pdf)
+* **Efficient Estimation of Heat Kernel PageRank for Local Clustering** [[pdf]](https://arxiv.org/pdf/1904.02707.pdf) **(已选)**
 * **Answering Why-questions by Exemplars in Attributed Graphs**
 * **Distance-generalized Core Decomposition** [[pdf]](https://arxiv.org/pdf/1904.07262.pdf) 
