@@ -16,5 +16,5 @@
 * **Interactive Graph Search** [[pdf]](https://www.cse.cuhk.edu.hk/~taoyf/paper/sigmod19.pdf) **(已选)**
 * **Efficient Estimation of Heat Kernel PageRank for Local Clustering** [[pdf]](https://arxiv.org/pdf/1904.02707.pdf) **(已选)**
 * **Answering Why-questions by Exemplars in Attributed Graphs**
-* **Distance-generalized Core Decomposition** [[pdf]](https://arxiv.org/pdf/1904.07262.pdf) 
+* **Distance-generalized Core Decomposition** [[pdf]](https://arxiv.org/pdf/1904.07262.pdf) **(已选)**
 * **Ariadne: Online Provenance for Big Graph Analytics** [[pdf]](http://www.sysnet.ucsd.edu/sysnet/miscpapers/ariadne-sigmod19.pdf) 
