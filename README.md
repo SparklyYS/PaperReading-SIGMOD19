@@ -3,7 +3,7 @@
 * **Optimizing Declarative Graph Queries at Large Scale** [[pdf]](https://netdb.cis.upenn.edu/papers/graphrex_tr.pdf) **(已选)**
 
 * **CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation** [[pdf]](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-19-CATAPULT.pdf)
-* **Experimental Analysis of Streaming Algorithms for Graph Partitioning** 
+* **Experimental Analysis of Streaming Algorithms for Graph Partitioning** [[pdf]](http://delivery.acm.org/10.1145/3310000/3300076/p1375-pacaci.pdf?ip=221.212.176.93&id=3300076&acc=OPEN&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1562304203_388e42908d1c780364d9a109c6e305b4)
 * **CECI: Compact Embedding Cluster Index for Scalable Subgraph Matching** [[pdf]](https://www2.seas.gwu.edu/~howie/publications/CECI-SIGMOD19.pdf) **(已选)**
 * **GPU-based Graph Traversal on Compressed Graphs**
 * **PRSim: Sublinear Time SimRank Computation on Large Power-Law Graphs** [[pdf]](https://arxiv.org/pdf/1905.02354.pdf)
