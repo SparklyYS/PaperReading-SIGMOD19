@@ -18,3 +18,4 @@
 * **Answering Why-questions by Exemplars in Attributed Graphs** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319890&ftid=2067544&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649)
 * **Distance-generalized Core Decomposition** [[pdf]](https://arxiv.org/pdf/1904.07262.pdf) **(已选)**
 * **Ariadne: Online Provenance for Big Graph Analytics** [[pdf]](http://www.sysnet.ucsd.edu/sysnet/miscpapers/ariadne-sigmod19.pdf) 
+* **An Efficient Index for RDF Query Containment** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319864&ftid=2067554&dwn=1&CFID=86153805&CFTOKEN=5f010162fd249cd3-4F0FB66F-D6C7-3C8D-779A4E6AEBBAEF5E) **(已选)** 
