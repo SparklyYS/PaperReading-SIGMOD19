@@ -14,7 +14,7 @@
 * **Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319880&ftid=2067526&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649) **(已选)**
 * **Efficient Approximation Algorithms for Adaptive Seed Minimization** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319881&ftid=2067437&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649) **(已选)**
 * **Efficiently Answering Regular Simple Path Queries on Large Labeled Networks** [[pdf]](http://www.cse.iitd.ernet.in/~srikanta/publication/sigmod-19/sigmod-19.pdf) **(已选)**
-* **Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3300082&ftid=2067443&dwn=1&CFID=61770079&CFTOKEN=9154fac8818a54f9-BECA8336-FE84-4233-08AF79034966A459)
+* **Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3300082&ftid=2067443&dwn=1&CFID=61770079&CFTOKEN=9154fac8818a54f9-BECA8336-FE84-4233-08AF79034966A459) **(已选)**
 * **Interactive Graph Search** [[pdf]](https://www.cse.cuhk.edu.hk/~taoyf/paper/sigmod19.pdf) **(已选)**
 * **Efficient Estimation of Heat Kernel PageRank for Local Clustering** [[pdf]](https://arxiv.org/pdf/1904.02707.pdf) **(已选)**
 * **Answering Why-questions by Exemplars in Attributed Graphs** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319890&ftid=2067544&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649)
