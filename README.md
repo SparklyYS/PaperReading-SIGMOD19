@@ -2,7 +2,7 @@
 
 * **Optimizing Declarative Graph Queries at Large Scale** [[pdf]](https://netdb.cis.upenn.edu/papers/graphrex_tr.pdf) **(已选)**
 
-* **CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation** [[pdf]](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-19-CATAPULT.pdf)
+* **CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation** [[pdf]](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-19-CATAPULT.pdf) **(已选)**
 * **Nanosecond Indexing of Graph Data With Hash Maps and VLists** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3314044&ftid=2067413&dwn=1&CFID=61770645&CFTOKEN=10a9eba02170aa2c-BEF438F2-BF79-0E53-D35D64B04894F4AF) **(已选)**
 * **Experimental Analysis of Streaming Algorithms for Graph Partitioning** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3300076&ftid=2067515&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649) **(已选)**
 * **CECI: Compact Embedding Cluster Index for Scalable Subgraph Matching** [[pdf]](https://www2.seas.gwu.edu/~howie/publications/CECI-SIGMOD19.pdf) **(已选)**
@@ -10,7 +10,7 @@
 * **PRSim: Sublinear Time SimRank Computation on Large Power-Law Graphs** [[pdf]](https://arxiv.org/pdf/1905.02354.pdf) **(已选)**
 * **Fractal: A General-Purpose Graph Pattern Mining System** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319875&ftid=2067505&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649) **(已选)**
 * **Scaling Distance Labeling on Small-World Networks** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319877&ftid=2067460&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649) **(已选)**
-* **Maximizing Welfare in Social Networks under A Utility Driven Influence Diffusion model** [[pdf]](https://arxiv.org/pdf/1807.02502.pdf)
+* **Maximizing Welfare in Social Networks under A Utility Driven Influence Diffusion model** [[pdf]](https://arxiv.org/pdf/1807.02502.pdf) **(已选)**
 * **Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319880&ftid=2067526&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649) **(已选)**
 * **Efficient Approximation Algorithms for Adaptive Seed Minimization** [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3319881&ftid=2067437&dwn=1&CFID=143492599&CFTOKEN=a2ad7dd94b42460c-85929616-0C2D-8AD9-7EF31DDDE78C1649) **(已选)**
 * **Efficiently Answering Regular Simple Path Queries on Large Labeled Networks** [[pdf]](http://www.cse.iitd.ernet.in/~srikanta/publication/sigmod-19/sigmod-19.pdf) **(已选)**
